@@ -1,0 +1,1 @@
+void eins(int *);
